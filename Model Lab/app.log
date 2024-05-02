@@ -1,0 +1,46 @@
+2024-05-02 11:03:54 INFO  AppTest:43 - Open Url
+  2024-05-02 11:03:55 WARN  AppTest:51 - Wait until element is located
+  2024-05-02 11:03:55 INFO  AppTest:53 - Data Fetched from excel and entered in Search Box
+  2024-05-02 11:03:57 INFO  AppTest:56 - Lets go Button clicked
+  2024-05-02 11:03:57 INFO  AppTest:59 - Asian checkbox is clicked under cuisine filter
+  2024-05-02 11:03:59 WARN  AppTest:61 - sleep for 2 secs
+  2024-05-02 11:04:00 INFO  AppTest:64 - Click on first result
+  2024-05-02 11:08:55 INFO  AppTest:43 - Open Url
+  2024-05-02 11:08:55 WARN  AppTest:51 - Wait until element is located
+  2024-05-02 11:08:56 INFO  AppTest:53 - Data Fetched from excel and entered in Search Box
+  2024-05-02 11:08:58 INFO  AppTest:56 - Lets go Button clicked
+  2024-05-02 11:08:58 INFO  AppTest:59 - Asian checkbox is clicked under cuisine filter
+  2024-05-02 11:09:00 WARN  AppTest:61 - sleep for 2 secs
+  2024-05-02 11:09:01 INFO  AppTest:64 - Click on first result
+  2024-05-02 11:11:40 INFO  AppTest:43 - Open Url
+  2024-05-02 11:11:53 INFO  AppTest:43 - Open Url
+  2024-05-02 11:11:55 WARN  AppTest:51 - Wait until element is located
+  2024-05-02 11:11:55 INFO  AppTest:53 - Data Fetched from excel and entered in Search Box
+  2024-05-02 11:11:57 INFO  AppTest:56 - Lets go Button clicked
+  2024-05-02 11:11:57 INFO  AppTest:59 - Asian checkbox is clicked under cuisine filter
+  2024-05-02 11:11:59 WARN  AppTest:61 - sleep for 2 secs
+  2024-05-02 11:12:00 INFO  AppTest:64 - Click on first result
+  2024-05-02 11:12:03 INFO  AppTest:78 - selected 4 people
+  2024-05-02 11:12:04 INFO  AppTest:86 - Selected November
+  2024-05-02 11:12:04 INFO  AppTest:89 - Date 11 is selected
+  2024-05-02 11:13:15 INFO  AppTest:43 - Open Url
+  2024-05-02 11:13:16 WARN  AppTest:51 - Wait until element is located
+  2024-05-02 11:13:17 INFO  AppTest:53 - Data Fetched from excel and entered in Search Box
+  2024-05-02 11:13:18 INFO  AppTest:56 - Lets go Button clicked
+  2024-05-02 11:13:19 INFO  AppTest:59 - Asian checkbox is clicked under cuisine filter
+  2024-05-02 11:13:21 WARN  AppTest:61 - sleep for 2 secs
+  2024-05-02 11:13:21 INFO  AppTest:64 - Click on first result
+  2024-05-02 11:13:25 INFO  AppTest:78 - selected 4 people
+  2024-05-02 11:13:26 INFO  AppTest:86 - Selected November
+  2024-05-02 11:13:26 INFO  AppTest:89 - Date 11 is selected
+  2024-05-02 11:21:02 INFO  AppTest:43 - Open Url
+  2024-05-02 11:21:03 WARN  AppTest:51 - Wait until element is located
+  2024-05-02 11:21:03 INFO  AppTest:53 - Data Fetched from excel and entered in Search Box
+  2024-05-02 11:21:05 INFO  AppTest:56 - Lets go Button clicked
+  2024-05-02 11:21:06 INFO  AppTest:59 - Asian checkbox is clicked under cuisine filter
+  2024-05-02 11:21:08 WARN  AppTest:61 - sleep for 2 secs
+  2024-05-02 11:21:08 INFO  AppTest:64 - Click on first result
+  2024-05-02 11:21:14 INFO  AppTest:78 - selected 4 people
+  2024-05-02 11:21:15 INFO  AppTest:86 - Selected November
+  2024-05-02 11:21:15 INFO  AppTest:89 - Date 11 is selected
+  
